@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+
+    <!-- Font Poppins-->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+
+    <!--CSS-->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="area" >
+        <ul class="circles">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <div class="wrapper">
+        <div class="search-logo">
+            <img src="images/cloudy and sunny.jpg" class="app-icon" alt="weather Image">
+            <h1 class="app-title">Weathery</h1>
+        </div>
+        <div class="search-bar">
+            <input type="text" class="search-input" placeholder="Please enter city name !!">
+            <button class="search-button" id="search-button">
+                <img src="images/search.png" alt="search button" width="35px" height="35px">
+            </button>
+        </div>
+        <div class="weather-error">
+            <img src="images/cry cloud.jpg" class="weather-error-icon">
+            <div class="weather-error-details">
+                <h2 class="weather-error-head">Weather not found</h2>
+                <img class="not-found" src="images/Not found.jpg" alt="not-found-icon"> <h2>.</h2>
+                <h2>Try other city?</h2>
+            </div>
+        </div>
+        <div class="weather-result">
+            <img src="images/rain.png" class="weather-icon">
+            <h2 class="weather-name">Rain</h2>
+            <h1 class="temperature">28°C</h1>
+            <h2 class="city">Jakarta</h2>
+            <div class="details">
+                <div class="humidity">
+                    <img src="images/blue humidity.png" alt="humidity-icon">
+                    <div class="hum-details">
+                        <p class="hum-per">50%</p>
+                        <p>Humidity</p>
+                    </div>
+                </div>
+                <div class="wind">
+                    <img src="images/blue wind.png" alt="wind-icon">
+                    <div class="wind-details">
+                        <p class="wind-speed">20 km/h</p>
+                        <p>Wind Speed</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Script for functionality -->
+    <script src="script.js"></script>
+</body>
+</html>
