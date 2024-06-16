@@ -14,6 +14,11 @@ The Weather App is a user-friendly application that provides current weather inf
 - JavaScript: Dynamic content and interaction.
 - API: OpenWeatherMap API for fetching weather data.
 
+** Preview **
+![image](https://github.com/Nesniw/Weathery-Weather-App/assets/109383763/ff187658-6042-4342-aa5e-c2efe7ab5d6e)
+![image](https://github.com/Nesniw/Weathery-Weather-App/assets/109383763/c54112a4-7b6a-4402-93c8-ed2f4172a6ce)
+![image](https://github.com/Nesniw/Weathery-Weather-App/assets/109383763/cbc39087-57e9-4c46-b730-a6c917e4aafd)
+
 ** Installation **
 1. Clone the repository:
    - git clone https://github.com/your-username/weather-app.git
