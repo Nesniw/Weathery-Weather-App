@@ -1,7 +1,7 @@
 Weathery - Weather App
 
 ** Overview **
-The Weather App is a user-friendly application that provides current weather information for any location worldwide. With a sleek design and accurate data, it's the perfect tool for anyone who wants to stay informed about the weather.
+The Weather App is a user-friendly web-based application that provides current weather information for any location worldwide. With a sleek design and accurate data, it's the perfect tool for anyone who wants to stay informed about the weather.
 
 ** Features **
 - Real-time Weather Data: Get up-to-date weather information including temperature, humidity, and wind speed.
