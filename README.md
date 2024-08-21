@@ -35,7 +35,7 @@ The Weather App is a user-friendly web-based application that provides current w
     ```
 3. **Open index.html from your local folder**
 
-## Thank You
+## Thank You ❤❤
 
 Thank you for visiting Weathery! 😊
 
