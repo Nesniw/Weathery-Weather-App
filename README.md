@@ -40,6 +40,6 @@ The Weather App is a user-friendly web-based application that provides current w
 Thank you for visiting Weathery! 😊
 
 By Winsen Wiradinata \
-Email: winsenwiradinata@gmail.com \
+[Email:](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : winsenwiradinata@gmail.com \
 LinkedIn: https://www.linkedin.com/in/winsen-wiradinata/
 
