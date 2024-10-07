@@ -16,6 +16,8 @@ The Weather App is a user-friendly web-based application that provides current w
 
 ## Preview 
 ![Weathery 1](https://github.com/user-attachments/assets/709f1735-7623-4965-b6a3-13a9da12d8d5)
+![Weathery 1-](https://github.com/user-attachments/assets/4ace996d-3f63-4ecc-9ac4-9c292773505a)
+
 ![image](https://github.com/Nesniw/Weathery-Weather-App/assets/109383763/ff187658-6042-4342-aa5e-c2efe7ab5d6e)
 ![image](https://github.com/Nesniw/Weathery-Weather-App/assets/109383763/c54112a4-7b6a-4402-93c8-ed2f4172a6ce)
 ![image](https://github.com/Nesniw/Weathery-Weather-App/assets/109383763/cbc39087-57e9-4c46-b730-a6c917e4aafd)
