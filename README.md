@@ -15,7 +15,6 @@ The Weather App is a user-friendly web-based application that provides current w
 - **API**: OpenWeatherMap API for fetching weather data.
 
 ## Preview 
-![Weathery 1](https://github.com/user-attachments/assets/709f1735-7623-4965-b6a3-13a9da12d8d5)
 ![Weathery 1-](https://github.com/user-attachments/assets/4ace996d-3f63-4ecc-9ac4-9c292773505a)
 
 ![image](https://github.com/Nesniw/Weathery-Weather-App/assets/109383763/ff187658-6042-4342-aa5e-c2efe7ab5d6e)
