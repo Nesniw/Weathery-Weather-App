@@ -15,8 +15,8 @@ The Weather App is a user-friendly web-based application that provides current w
 - **API**: OpenWeatherMap API for fetching weather data.
 
 ## Preview 
-![Weathery 1-](https://github.com/user-attachments/assets/4ace996d-3f63-4ecc-9ac4-9c292773505a)
-![Weathery 2](https://github.com/user-attachments/assets/86ef2826-31f5-4e9b-ab4c-f7e6adffdb39)
+![Weathery 1-](https://github.com/user-attachments/assets/4ace996d-3f63-4ecc-9ac4-9c292773505a) <br> <br>
+![Weathery 2](https://github.com/user-attachments/assets/86ef2826-31f5-4e9b-ab4c-f7e6adffdb39) <br> <br>
 ![Weathery 3](https://github.com/user-attachments/assets/7d54577f-8f4d-458a-bad3-edff1312ccfa)
 
 ## Installation 
